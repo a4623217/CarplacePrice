@@ -1,3 +1,2 @@
-# CarplacePrice
-Carplace Predict Price Visualize
+# Carplace Price Visualize  
 Building model from OpenStreetMap
